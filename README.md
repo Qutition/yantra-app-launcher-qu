@@ -1,4 +1,4 @@
-# Yantra-app-launcher (qu)
+# yantra-app-launcher (qu)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/coderGtm/yantra-app-launcher)
 
@@ -74,7 +74,7 @@ See the [Support Page](/support.md) if you'd like to support the project.
  </picture>
 </a>
 
-## Contributors
+## Official Repository Contributors
 <a href="https://github.com/qutition/yantra-app-launcher-qu/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=qutition/yantra-app-launcher-qu" />
 </a>
